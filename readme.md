@@ -39,6 +39,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🤖 Bots
 
+- [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge and chat games.
 - [Jan's Bot](https://gitea.janderedev.xyz/Jan/revolt-bot) - Generic Revolt bot made by Jan.
 
