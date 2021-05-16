@@ -1,0 +1,24 @@
+name: Lint Awesome List
+on: [pull_request, push]
+
+jobs:
+  awesome-lint:
+    name: "lint: awesome-lint"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "checkout repo"
+        uses: actions/checkout@v2.0.0
+        with:
+          fetch-depth: 0
+      - name: "lint: awesome-lint"
+        uses: jthegedus/github-action-awesome-lint@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
+        with:
+          args: ./readme-template.md
+      # Or use the below if you do not want to worry about security of someone else's GitHub Action contents.
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - run: |
+          npm install --global awesome-lint@latest
+          awesome-lint ./readme-template.md
