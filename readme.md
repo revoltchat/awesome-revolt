@@ -11,9 +11,9 @@ An awesome list of things for the chat application Revolt.
 
 <!-- image -->
 
-<!-- <a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
+<a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
   <img src="https://revolt.chat/header.png" />
-</a> -->
+</a>
 
 <!-- description -->
 
