@@ -8,7 +8,7 @@ ALWAYS create a new branch with your proposed changes. Thank you!
 
 ## Adding an new Item
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/TODO_YOUR_REPO_NAME_HERE/issues/new) to start as discussion about any new sections.
+- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/insert/awesome-revolt/issues/new) to start as discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.

@@ -14,3 +14,11 @@ jobs:
         uses: jthegedus/github-action-awesome-lint@v0.1.0 # I trust me, so will happily use Tag versioning over commit_sha
         with:
           args: ./readme-template.md
+      # Or use the below if you do not want to worry about security of someone else's GitHub Action contents.
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - run: |
+          npm install --global awesome-lint@latest
+          awesome-lint ./readme-template.md

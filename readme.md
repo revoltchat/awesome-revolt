@@ -1,27 +1,64 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
+# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/insertish/awesome-revolt/workflows/Lint%20Awesome%20List/badge.svg)
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image. uncomment the img code.
-   - update `TODO_YOUR_REPO_NAME_HERE` in the "contributors" link and uncomment the line
-3. edit `code_of_conduct.md`
-   - update `TODO_INSERT_YOUR_EMAIL_HERE`
-4. edit `contributing.md`
-   - update `TODO_YOUR_REPO_NAME_HERE`
-5. choose a CI template
-   - github action: move config folver from `repo-root/ci/.github/` to `repo-root/.github`
-   - circle ci: move config folder from `repo-root/ci/.circleci/*` to `repo-root/.circleci/*`
-   - gitlab ci: move config file from `repo-root/ci/.gitlab-ci.yml` to the `repo-root/.gitlab-ci.yml`
-6. delete this file
-7. rename `readme-template.md` to `readme.md`
+<!-- subtitle -->
+
+An awesome list of things for the chat application Revolt.
+
+<!-- image -->
+
+<!-- <a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
+  <img src="https://revolt.chat/header.png" />
+</a> -->
+
+<!-- description -->
+
+Revolt is a user-first, privacy-friendly chat platform built with modern web technologies.
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [💻 API Libraries](#-api-libraries)
+- [🤖 Bots](#-bots)
+- [🔧 Third-party Clients](#-third-party-clients)
+
+<!-- CONTENT -->
+
+## 💻 API Libraries
+
+- [**Node.js**: revolt.js](https://www.nuget.org/packages/Revolt.Net/) - Official Javascript library for Revolt.
+- [**C#**: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt with a DOD and OOP design.
+- [**Java**: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Experimental (version 0) Revolt API client for Java.
+
+## 🤖 Bots
+
+- [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge and chat games.
+- [Jan's Bot](https://gitea.janderedev.xyz/Jan/revolt-bot) - Generic Revolt bot made by Jan.
+
+## 🔧 Third-party Clients
+
+> These are not officially endorsed, **proceed at your own caution**.
+
+- [**Minecraft:** Unofficial Fabric for Revolt](https://rvf.geist.ga/) - Minecraft-based client for the Revolt chat platform.
+- [**Desktop App:** Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
+
+<!-- END CONTENT -->
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+<!-- [Thanks goes to these contributors](https://github.com/insertish/awesome-revolt/graphs/contributors)! -->
+
+## License
+
+[CC0 License](license)
