@@ -49,9 +49,10 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 > These are not officially endorsed, **proceed at your own caution**.
 
 - [**Minecraft:** Unofficial Revolt for Fabric](https://rvf.geist.ga/) - Minecraft-based client for the Revolt chat platform.
-- [**Revolt.Cli:** A CLI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
+- [**TUI: Revolt.Cli:** TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [**Desktop App:** QtRevolt](https://gitlab.insrt.uk/infi/qtrevolt) - Performant, configurable and simple Revolt client based on QtWebEngine.
 - [**Desktop App:** Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
+- [**Mobile App:** Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 
 <!-- END CONTENT -->
 
