@@ -27,8 +27,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
-- [🔧 Third-party Clients](#-third-party-clients)
 - [🎨 Themes](#-themes)
+- [🔧 Third-party Clients](#-third-party-clients)
 
 <!-- CONTENT -->
 
