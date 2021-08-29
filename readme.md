@@ -26,6 +26,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ## Contents
 
 - [💻 API Libraries](#-api-libraries)
+- [📁 Lists](#-lists)
 - [🤖 Bots](#-bots)
 - [🔧 Third-party Clients](#-third-party-clients)
 
@@ -40,6 +41,9 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [**Dart**: Dartvolt](https://pub.dev/packages/dartvolt) - Experimental API wrapper for Dart.
 - [**Java**: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
 - [**Go**: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
+
+## 📁 Lists
+- [revolt.social](https://revolt.social) - The original Revolt Server- and Botlist
 
 ## 🤖 Bots
 
