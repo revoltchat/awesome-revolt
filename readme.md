@@ -34,6 +34,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ## 💻 API Libraries
 
 - [**Node.js**: revolt.js](https://www.npmjs.com/package/revolt.js) - Official Javascript library for Revolt.
+- [**Python** defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [**Python**: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
 - [**Node.js**: better-revolt.js](https://www.npmjs.com/package/better-revolt-js) - JavaScript library for Revolt.
 - [**C#**: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
