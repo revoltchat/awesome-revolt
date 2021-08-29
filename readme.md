@@ -28,6 +28,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
 - [🔧 Third-party Clients](#-third-party-clients)
+- [🎨 Themes](#-themes)
 
 <!-- CONTENT -->
 
@@ -56,6 +57,10 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [**Desktop App:** QtRevolt](https://gitlab.insrt.uk/infi/qtrevolt) - Performant, configurable and simple Revolt client based on QtWebEngine.
 - [**Desktop App:** Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
 - [**Mobile App:** Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+
+## 🎨 Themes
+
+- [Tonybo's Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme.
 
 <!-- END CONTENT -->
 
