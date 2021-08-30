@@ -60,7 +60,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🎨 Themes
 
-- [Tonybo's Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme.
+- [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme by ThatTonybo.
 
 <!-- END CONTENT -->
 
