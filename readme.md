@@ -27,7 +27,9 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
+- [🎨 Themes](#-themes)
 - [🔧 Third-party Clients](#-third-party-clients)
+- [🌏 Third-party Websites](#-third-party-websites)
 
 <!-- CONTENT -->
 
@@ -48,6 +50,11 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Jan's Bot](https://gitea.janderedev.xyz/Jan/revolt-bot) - Generic Revolt bot made by Jan, includes games like Connect 4 and TicTacToe.
 
+## 🎨 Themes
+
+- [Official Theme Repository](https://gitlab.insrt.uk/revolt/community/themes) - Themes provided by the Revolt community.
+- [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme by ThatTonybo.
+
 ## 🔧 Third-party Clients
 
 > These are not officially endorsed, **proceed at your own caution**.
@@ -57,6 +64,12 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [**Desktop App:** QtRevolt](https://gitlab.insrt.uk/infi/qtrevolt) - Performant, configurable and simple Revolt client based on QtWebEngine.
 - [**Desktop App:** Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
 - [**Mobile App:** Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+
+## 🌏 Third-party Websites
+
+> These are not officially endorsed, **proceed at your own caution**.
+
+- [revolt.social](https://revolt.social) - Revolt server and bot list.
 
 <!-- END CONTENT -->
 
