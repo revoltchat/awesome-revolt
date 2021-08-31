@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/insertish/awesome-revolt/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
