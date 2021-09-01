@@ -40,6 +40,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Dart: Dartvolt](https://pub.dev/packages/dartvolt) - Experimental API wrapper for Dart.
 - [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
 - [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
+- [Kotlin: RevoltKt](https://github.com/XuaTheGrate/RevoltKt) - Pure-Kotlin library for bots to interface with Revolt.
 - [Node.js: better-revolt.js](https://www.npmjs.com/package/better-revolt-js) - JavaScript library for Revolt.
 - [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
