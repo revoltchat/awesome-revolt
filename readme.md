@@ -46,6 +46,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
 - [Rust: Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
+- [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 
 ## 🤖 Bots
 
