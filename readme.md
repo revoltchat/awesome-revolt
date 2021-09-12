@@ -38,6 +38,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Node.js: revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
 - [C#: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [C#: Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
+- [C#: RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 - [Dart: Dartvolt](https://pub.dev/packages/dartvolt) - Experimental API wrapper for Dart.
 - [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
 - [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
