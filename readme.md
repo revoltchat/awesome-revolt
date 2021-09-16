@@ -36,19 +36,19 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ## 💻 API Libraries
 
 - [Node.js: revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
+- [Node.js: better-revolt.js](https://www.npmjs.com/package/better-revolt-js) - JavaScript library for Revolt.
+- [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 - [C#: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [C#: Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [C#: RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
+- [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
+- [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
+- [Rust: Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
+- [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
 - [Dart: Dartvolt](https://pub.dev/packages/dartvolt) - Experimental API wrapper for Dart.
 - [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
 - [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
 - [Kotlin: RevoltKt](https://github.com/XuaTheGrate/RevoltKt) - Pure-Kotlin library for bots to interface with Revolt.
-- [Node.js: better-revolt.js](https://www.npmjs.com/package/better-revolt-js) - JavaScript library for Revolt.
-- [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
-- [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
-- [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
-- [Rust: Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
-- [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 
 ## 🤖 Bots
 
