@@ -73,6 +73,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Desktop App: QtRevolt](https://gitlab.insrt.uk/infi/qtrevolt) - Performant, configurable and simple Revolt client based on QtWebEngine.
 - [Desktop App: Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+- [Mobile App:Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 
 ## 🌏 Third-party Websites
 
