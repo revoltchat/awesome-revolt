@@ -59,7 +59,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Kal's Bot](https://github.com/kal-byte/revolt-bot) - Yet another multi-purpose bot.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
-- [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt->Discord bridge for people that have friends who won't switch.
+- [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 
 ## 🎨 Themes
 
@@ -68,18 +68,19 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🔧 Third-party Clients
 
-> These are not officially endorsed, **proceed at your own caution**.
+> These are not officially endorsed. **Proceed at your own risk.**
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Desktop App: QtRevolt](https://gitlab.insrt.uk/infi/qtrevolt) - Performant, configurable and simple Revolt client based on QtWebEngine.
 - [Desktop App: Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
+- [Mobile App: rvmob](https://github.com/TaiAurori/rvmob) - App for Android and iOS made with React Native.
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 
 ## 🌏 Third-party Websites
 
-> These are not officially endorsed, **proceed at your own caution**.
+> These are not officially endorsed. **Proceed at your own risk.**
 
 - [revolt.social](https://revolt.social) - Revolt server and bot list.
 
