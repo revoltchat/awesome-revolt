@@ -68,7 +68,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🔧 Third-party Clients
 
-> These are not officially endorsed, **proceed at your own caution**.
+> These are not officially endorsed. **Proceed at your own risk.**
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
@@ -76,10 +76,11 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Desktop App: Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
+- [Mobile App: RVMob](https://github.com/TaiAurori/rvmob) - App for Android and iOS made with React Native.
 
 ## 🌏 Third-party Websites
 
-> These are not officially endorsed, **proceed at your own caution**.
+> These are not officially endorsed. **Proceed at your own risk.**
 
 - [revolt.social](https://revolt.social) - Revolt server and bot list.
 
