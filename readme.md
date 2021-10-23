@@ -12,7 +12,7 @@ An awesome list of things for the chat application Revolt.
 <!-- image -->
 
 <a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/revoltchat/revite/master/src/assets/logo_round.png" height="240" />
+  <img src="https://nightly.revolt.chat/assets/logo_round.png" height="240" />
 </a>
 
 <!-- description -->
