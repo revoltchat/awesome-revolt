@@ -39,7 +39,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [C#: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [C#: Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [C#: RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
-- [Dart: Dartvolt](https://pub.dev/packages/dartvolt) - Experimental API wrapper for Dart.
 - [Dart: Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
 - [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
 - [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
@@ -77,8 +76,11 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Desktop App: Electron Revolt Client by xFuney](https://github.com/xFuney/revolt-client) - Revolt desktop client built with Electron.
 - [Mobile App: rvmob](https://github.com/TaiAurori/rvmob) - App for Android and iOS made with React Native.
-- [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
+
+### Discontinued Projects
+
+- [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 
 ## 🌏 Third-party Websites
 
