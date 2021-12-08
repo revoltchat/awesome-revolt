@@ -27,9 +27,9 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
+- [🌏 Community Resources](#-community-resources)
 - [🎨 Themes](#-themes)
 - [🔧 Third-party Clients](#-third-party-clients)
-- [🌏 Third-party Websites](#-third-party-websites)
 
 <!-- CONTENT -->
 
@@ -61,6 +61,10 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 
+## 🌏 Community Resources
+
+- [revolt.social](https://revolt.social) - Official Revolt server and bot list.
+
 ## 🎨 Themes
 
 - [Official Theme Repository](https://gitlab.insrt.uk/revolt/community/themes) - Themes provided by the Revolt community.
@@ -81,12 +85,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ### Discontinued Projects
 
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
-
-## 🌏 Third-party Websites
-
-> These are not officially endorsed. **Proceed at your own risk.**
-
-- [revolt.social](https://revolt.social) - Revolt server and bot list.
 
 <!-- END CONTENT -->
 
