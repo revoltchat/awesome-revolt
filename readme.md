@@ -27,7 +27,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
-- [🌏 Community Resources](#-community-resources)
 - [🎨 Themes](#-themes)
 - [🔧 Third-party Clients](#-third-party-clients)
 
@@ -60,10 +59,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
-
-## 🌏 Community Resources
-
-- [revolt.social](https://revolt.social) - Official Revolt server and bot list.
 
 ## 🎨 Themes
 
