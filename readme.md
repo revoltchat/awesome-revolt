@@ -57,7 +57,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
 - [Jan's Bot](https://gitea.janderedev.xyz/Jan/revolt-bot) - Generic Revolt bot made by Jan, includes games like Connect 4 and TicTacToe.
-- [Kal's Bot](https://github.com/kal-byte/revolt-bot) - Yet another multi-purpose bot.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
