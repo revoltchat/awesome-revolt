@@ -45,6 +45,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Node.js: better-revolt.js](https://www.npmjs.com/package/better-revolt-js) - JavaScript library for Revolt.
 - [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 - [Node.js: Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
+- [Python: pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
 - [Python: Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the revolt api.
 - [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
