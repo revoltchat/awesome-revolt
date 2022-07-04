@@ -62,7 +62,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
-- [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
+- [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc.
+- [AutoMod](https://github.com/janderedev/automod) - Spam protection, ban/kick/warn system, and Discord bridge.
 
 ## 🎨 Themes
 
