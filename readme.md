@@ -55,6 +55,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 - [Rust: Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
 - [Swift: RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
+- [NodeJS: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
 
 ## 🤖 Bots
 
