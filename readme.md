@@ -62,7 +62,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
-- [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 - [Remix](https://github.com/remix-bot/revolt) - 🎶 A Revolt music bot that's easy to use and run yourself!.
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
@@ -82,10 +81,12 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
+- [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 
 ### Discontinued Projects
 
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+- [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 
 <!-- END CONTENT -->
 
