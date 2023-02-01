@@ -64,7 +64,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
-- [Remix](https://github.com/remix-bot/revolt) - 🎶 A Revolt music bot that's easy to use and run yourself!.
+- [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports Youtube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
 
 ## 🎨 Themes
