@@ -56,6 +56,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Swift: RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
 - [Node.js: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
 - [Node.js: TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
+- [Node.js: revolt-toolset](https://github.com/Revolt-Unofficial-Clients/revolt-toolset) - A typed, class-oriented library for interacting with Revolt, including additional utilities for custom clients.
 
 ## 🤖 Bots
 
@@ -66,6 +67,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 - [Remix](https://github.com/remix-bot/revolt) - 🎶 A Revolt music bot that's easy to use and run yourself!.
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
+- [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A multipurpose Revolt bot with support for music from multiple sources and some other helpful commands.
 
 ## 🎨 Themes
 
