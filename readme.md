@@ -67,7 +67,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 - [Remix](https://github.com/remix-bot/revolt) - 🎶 A Revolt music bot that's easy to use and run yourself!.
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
-- [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A multipurpose Revolt bot with support for music from multiple sources and some other helpful commands.
+- [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A multipurpose Revolt bot with support for music from YT/SC/TuneIn, various audio filters, and some other helpful commands.
 
 ## 🎨 Themes
 
