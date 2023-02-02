@@ -57,15 +57,18 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Node.js: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
 - [Node.js: TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
 - [Node.js: Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
+- [Node.js: revolt-toolset](https://github.com/Revolt-Unofficial-Clients/revolt-toolset) - A typed, class-oriented library for interacting with Revolt, including additional utilities for custom clients.
 
 ## 🤖 Bots
 
+- [Bolt](https://github.com/williamhorning/bolt) - A cross-platform bot that bridges Discord, Guilded, and Revolt.
 - [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
-- [Remix](https://github.com/remix-bot/revolt) - 🎶 A Revolt music bot that's easy to use and run yourself!.
+- [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports YouTube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
+- [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
 
 ## 🎨 Themes
 
