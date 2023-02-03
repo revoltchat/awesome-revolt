@@ -56,6 +56,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Swift: RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
 - [Node.js: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
 - [Node.js: TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
+- [Node.js: Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
 - [Node.js: revolt-toolset](https://github.com/Revolt-Unofficial-Clients/revolt-toolset) - A typed, class-oriented library for interacting with Revolt, including additional utilities for custom clients.
 
 ## 🤖 Bots
