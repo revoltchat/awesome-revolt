@@ -2,11 +2,11 @@
 
 This project abides by a [Contributor Code of Conduct](code_of_conduct.md). By contributing to this project, you agree to abide by its terms.
 
-## Pull requests
+## Pull Requests
 
 ALWAYS create a new branch with your proposed changes. Thank you!
 
-## Adding a new item
+## Adding a new Item
 
 - Try to fit your item into an existing section. [Open a suggestion here](https://github.com/insert/awesome-revolt/issues/new) to start a discussion about a new section.
 - Add a new item to the bottom of the list in a section.
