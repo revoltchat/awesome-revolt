@@ -63,13 +63,13 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [Bolt](https://github.com/williamhorning/bolt) - A cross-platform bot that bridges Discord, Guilded, and Revolt.
 - [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
-- [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 - [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports YouTube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
 - [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
+- [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
 
 ## 🎨 Themes
 
