@@ -69,6 +69,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports YouTube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
 - [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
+- [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it. 
+
 
 ## 🎨 Themes
 
