@@ -71,7 +71,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
 - [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it. 
 
-
 ## 🎨 Themes
 
 - [Official Theme Repository](https://gitlab.insrt.uk/revolt/community/themes) - Themes provided by the Revolt community.
