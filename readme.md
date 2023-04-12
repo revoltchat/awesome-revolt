@@ -71,7 +71,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
 - [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
 - [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
-- [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it. 
+- [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it.
+- [revolt.guide](https://revolt.guide) - A guide on how to create your own Revolt Bot with revolt.js.
 
 ## 🎨 Themes
 
