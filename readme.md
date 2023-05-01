@@ -59,6 +59,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Node.js: Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
 - [Node.js: RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
 - [COBOL: revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
+- [Go: revgo](https://github.com/ben-forster/revgo) - A Go wrapper for Revolt.
 
 ## 🤖 Bots
 
