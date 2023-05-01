@@ -57,7 +57,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Node.js: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
 - [Node.js: TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
 - [Node.js: Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
-- [Node.js: revolt-toolset](https://github.com/Revolt-Unofficial-Clients/revolt-toolset) - A typed, class-oriented library for interacting with Revolt, including additional utilities for custom clients.
+- [Node.js: RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
+- [COBOL: revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
 
 ## 🤖 Bots
 
@@ -69,10 +70,13 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports YouTube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
 - [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
+- [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
+- [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it.
+- [revolt.guide](https://revolt.guide) - A guide on how to create your own Revolt Bot with revolt.js.
 
 ## 🎨 Themes
 
-- [Official Theme Repository](https://gitlab.insrt.uk/revolt/community/themes) - Themes provided by the Revolt community.
+- [Official Theme Repository](https://github.com/revoltchat/themes) - Themes provided by the Revolt community.
 - [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme by ThatTonybo.
 
 ## 🔧 Third-party Clients
