@@ -34,32 +34,49 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 💻 API Libraries
 
-- [Node.js: revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
-- [C#: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
-- [C#: Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
-- [C#: RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
-- [Dart: Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
-- [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
-- [Go: revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
-- [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
-- [Node.js/Deno: Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
-- [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
-- [Node.js: Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
-- [Node.js: Reject.js](https://github.com/revoltrejectorg/reject.js) - Compatibility layer for Discord.js bots to port themselves to Revolt.js.
-- [Python: pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
-- [Python: Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the revolt api.
-- [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
-- [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
-- [Python: Luster](https://github.com/nerdguyahmad/luster) - Modern Python library for Revolt.chat API.
-- [Rust: Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
-- [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
-- [Rust: Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
-- [Swift: RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
-- [Node.js: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
-- [Node.js: TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
-- [Node.js: Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
-- [Node.js: RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
-- [COBOL: revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
+### Node.js
+- [revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
+- [Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
+- [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
+- [Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
+- [Reject.js](https://github.com/revoltrejectorg/reject.js) - Compatibility layer for Discord.js bots to port themselves to Revolt.js.
+- [Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
+- [TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
+- [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
+- [RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
+
+### C#
+- [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
+- [Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
+- [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
+
+### Go
+- [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo)
+- [revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
+
+### Java
+- [Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
+
+### Python
+- [pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
+- [Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the revolt api.
+- [defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
+- [Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
+- [Luster](https://github.com/nerdguyahmad/luster) - Modern Python library for Revolt.chat API.
+
+### Rust
+- [Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
+- [Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
+- [Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
+
+### Dart
+- [Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
+
+### Swift
+- [RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
+
+### Cobol
+- [revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
 
 ## 🤖 Bots
 
