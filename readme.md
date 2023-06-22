@@ -73,7 +73,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
 
 ### Swift
-- [RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
+- [RevoltKit](https://github.com/gulje/RevoltKit) - An API wrapper for Swift.
 
 ### Cobol
 - [revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
