@@ -49,6 +49,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
+- [RevSharp](https://github.com/ktwrd/RevSharp) - C# Library with built-in cache focused on performance and ease-of-use.
 
 ### Go
 - [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo)
@@ -92,6 +93,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
 - [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it.
 - [revolt.guide](https://revolt.guide) - A guide on how to create your own Revolt Bot with revolt.js.
+- [Xenia](https://github.com/ktwrd/revsharp/blob/main/README.Xenia.md) - Open-source general purpose Revolt bot made with RevSharp. Includes Automatic Moderation powered by Google Cloud.
 
 ## 🎨 Themes
 
