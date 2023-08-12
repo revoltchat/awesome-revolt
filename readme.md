@@ -107,14 +107,15 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 > Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
+- [TUI: Retaped-TUI: A TUI Revolt client](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped-TUI) - TUI Revolt client. And currently the only TUI Revolt client.
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
-- [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 
 ### Discontinued Projects
 
+- [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 
