@@ -46,7 +46,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
 
 ### C#
-- [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
+- [Revolt.Net](https://github.com/nixonjoshua98/Revolt.Net) - The .Net library for Revolt.
 - [Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 - [RevSharp](https://github.com/ktwrd/RevSharp) - C# Library with built-in cache focused on performance and ease-of-use.
