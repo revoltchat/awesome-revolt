@@ -103,8 +103,10 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🔧 Third-party Clients
 
+> [!WARNING]
 > These are not officially endorsed. **Proceed at your own risk.**
 
+> [!NOTE]
 > Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
