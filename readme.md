@@ -51,8 +51,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 
 ### Go
-- [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being up-to-date and feature-complete with Revolts current API while also being well tested with unit tests and providing a high level of control over all parts of the library to allow both small and large bots to thrive.
-- [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo).
+- [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being well-tested, up-to-date and feature-complete with Revolt's current API.
+- [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo)
 - [revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
 
 ### Java
