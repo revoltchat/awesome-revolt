@@ -21,7 +21,7 @@ jobs:
         - name: "Install Node"
           uses: actions/setup-node@v4
           with:
-            node-version: 'lts'
+            node-version: 'latest'
         - name: "Lint ${{ matrix.files }}"
           run: npx -y awesome-lint ${{ matrix.files }}
     awesome-bot:
