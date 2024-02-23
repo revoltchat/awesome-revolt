@@ -51,8 +51,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 
 ### Go
-- [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being up-to-date and feature-complete with Revolts current API while also being well tested with unit tests and providing a high level of control over all parts of the library to allow both small and large bots to thrive
-- [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo)
+- [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being up-to-date and feature-complete with Revolts current API while also being well tested with unit tests and providing a high level of control over all parts of the library to allow both small and large bots to thrive.
+- [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo).
 - [revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
 
 ### Java
@@ -113,7 +113,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
-- [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones
+- [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
 
 ### Discontinued Projects
 
