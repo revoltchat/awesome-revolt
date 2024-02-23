@@ -114,6 +114,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
+- [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones
 
 ### Discontinued Projects
 
