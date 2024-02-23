@@ -104,7 +104,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 <!--lint ignore no-undefined-references-->
 > [!WARNING]
-> These are not officially endorsed. **Proceed at your own risk.**
+> Unless stated, these are not officially endorsed. **Proceed at your own risk.**
 
 <!--lint ignore no-undefined-references-->
 > [!NOTE]
