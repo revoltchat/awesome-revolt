@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml)
+# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/revoltchat/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/revoltchat/awesome-revolt/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -12,7 +12,7 @@ An awesome list of things for the chat application Revolt.
 <!-- image -->
 
 <a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
-  <img src="https://nightly.revolt.chat/assets/logo_round.png" height="240" />
+  <img src="https://app.revolt.chat/assets/logo_round.png" height="240" />
 </a>
 
 <!-- description -->
@@ -49,10 +49,9 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
-- [RevSharp](https://github.com/ktwrd/RevSharp) - C# Library with built-in cache focused on performance and ease-of-use.
 
 ### Go
-- [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being well-tested, up-to-date and feature-complete with Revolts current API.
+- [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being well-tested, up-to-date and feature-complete with Revolt's current API.
 - [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo)
 - [revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
 
@@ -94,29 +93,34 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
 - [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it.
 - [revolt.guide](https://revolt.guide) - A guide on how to create your own Revolt Bot with revolt.js.
-- [Xenia](https://github.com/ktwrd/revsharp/blob/main/README.Xenia.md) - Open-source general purpose Revolt bot made with RevSharp. Includes Automatic Moderation powered by Google Cloud.
 
 ## 🎨 Themes
 
 - [Official Theme Repository](https://github.com/revoltchat/themes) - Themes provided by the Revolt community.
+- [revolt-tweaks](https://github.com/lo-kiss/revolt-tweaks) - Useful snippets that can be used alongside themes.
 - [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme by ThatTonybo.
 
 ## 🔧 Third-party Clients
 
-> These are not officially endorsed. **Proceed at your own risk.**
+<!--lint ignore no-undefined-references-->
+> [!WARNING]
+> Unless stated, these are not officially endorsed. **Proceed at your own risk.**
 
+<!--lint ignore no-undefined-references-->
+> [!NOTE]
 > Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
-- [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
-- [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
+- [(Endorsed) Mobile App: RVMob](https://github.com/revoltchat/rvmob) - Revolt client for Android and web, built with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
+- [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
 
 ### Discontinued Projects
 
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
+- [Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 
 <!-- END CONTENT -->
 
