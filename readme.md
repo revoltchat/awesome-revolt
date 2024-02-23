@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml)
+# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/revoltchat/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/revoltchat/awesome-revolt/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -102,15 +102,17 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🔧 Third-party Clients
 
+<!--lint ignore no-undefined-references-->
 > [!WARNING]
 > These are not officially endorsed. **Proceed at your own risk.**
 
+<!--lint ignore no-undefined-references-->
 > [!NOTE]
 > Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
-- [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
+- [(Endorsed) Mobile App: RVMob](https://github.com/revoltchat/rvmob) - Revolt client for Android and web, built with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 - [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
