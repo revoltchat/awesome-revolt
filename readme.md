@@ -38,7 +38,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ### Node.js
 - [revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
 - [Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
-- [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 - [Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
 - [Reject.js](https://github.com/revoltrejectorg/reject.js) - Compatibility layer for Discord.js bots to port themselves to Revolt.js.
 - [Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
@@ -62,7 +61,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ### Python
 - [pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
 - [Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the revolt api.
-- [defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
 - [Luster](https://github.com/nerdguyahmad/luster) - Modern Python library for Revolt.chat API.
 
@@ -84,9 +82,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 ## 🤖 Bots
 
 - [Bolt](https://github.com/williamhorning/bolt) - A cross-platform bot that bridges Discord, Guilded, and Revolt.
-- [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
-- [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
-- [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 - [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports YouTube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
@@ -119,9 +114,15 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## ❌ Discontinued Projects
 
-- [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
+- [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
+- [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+- [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
+- [defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
+- [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
+- [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
+
 
 <!-- END CONTENT -->
 
