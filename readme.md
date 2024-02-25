@@ -29,6 +29,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [🤖 Bots](#-bots)
 - [🎨 Themes](#-themes)
 - [🔧 Third-party Clients](#-third-party-clients)
+- [❌ Discontinued Projects](#-discontinued-projects)
 
 <!-- CONTENT -->
 
@@ -116,7 +117,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 - [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
 
-### Discontinued Projects
+## ❌ Discontinued Projects
 
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
