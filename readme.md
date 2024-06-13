@@ -89,6 +89,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
 - [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it.
 - [revolt.guide](https://revolt.guide) - A guide on how to create your own Revolt Bot with revolt.js.
+- [matrix-appservice-revolt](https://codeberg.org/austinhuang/matrix-appservice-revolt) - Matrix-Revolt bridge.
 
 ## 🎨 Themes
 
