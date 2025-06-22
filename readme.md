@@ -70,6 +70,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 - [Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
 - [Rive](https://crates.io/crates/rive) - A Rust ecosystem for Revolt.
+- [Seria](https://github.com/reinacchi/seria) - A Rust-based library for interacting with Revolt.
 
 ### Dart
 - [Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
