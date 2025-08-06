@@ -96,6 +96,8 @@ An awesome list of things for Revolt, the chat app that's truly built with you i
 
 ## 🔧 Third-party Clients
 
+<!--lint ignore no-undefined-references-->
+
 > [!WARNING]
 > Unless stated, these are not officially endorsed. **Proceed at your own risk.**
 
