@@ -1,27 +1,14 @@
 <div align="center">
 
-<!-- title -->
-
-<!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/revoltchat/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/revoltchat/awesome-revolt/actions/workflows/lint.yaml)
-
-<!-- subtitle -->
-
-An awesome list of things for the chat application Revolt.
-
-<!-- image -->
-
 <a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
-  <img src="https://app.revolt.chat/assets/logo_round.png" height="240" />
+  <img src="https://revolt.chat/favicon.svg" height="240" />
 </a>
 
-<!-- description -->
+# Awesome Revolt [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![lint](https://github.com/revoltchat/awesome-revolt/actions/workflows/main.yaml/badge.svg)](https://github.com/revoltchat/awesome-revolt/actions/workflows/main.yaml)
 
-Revolt is a user-first, privacy-friendly chat platform built with modern web technologies.
+An awesome list of things for Revolt, the chat app that's truly built with you in mind.
 
 </div>
-
-<!-- TOC -->
 
 ## Contents
 
@@ -31,11 +18,10 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [🔧 Third-party Clients](#-third-party-clients)
 - [❌ Discontinued Projects](#-discontinued-projects)
 
-<!-- CONTENT -->
-
 ## 💻 API Libraries
 
 ### Node.js
+
 - [revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
 - [Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
 - [Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
@@ -46,19 +32,23 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
 
 ### C#
+
 - [Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 
 ### Go
+
 - [grevolt](https://github.com/InfinityBotList/grevolt) - A low-level library for Revolt focused on being well-tested, up-to-date and feature-complete with Revolt's current API.
 - [revoltgo](https://github.com/sentinelb51/revoltgo) - Low-level bindings to the Revolt API, [like discordgo](https://github.com/bwmarrin/discordgo)
 - [revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
 
 ### Java
+
 - [Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
 
 ### Python
+
 - [pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
 - [pyvolt](https://github.com/MCausc78/pyvolt) - Flexible, asynchronous and feature-rich Revolt API wrapper for Python.
 - [Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the Revolt API.
@@ -66,6 +56,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Luster](https://github.com/nerdguyahmad/luster) - Modern Python library for Revolt.chat API.
 
 ### Rust
+
 - [Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
 - [Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 - [Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
@@ -73,12 +64,15 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Seria](https://github.com/reinacchi/seria) - A Rust-based library for interacting with Revolt.
 
 ### Dart
+
 - [Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
 
 ### Swift
+
 - [RevoltKit](https://github.com/gulje/RevoltKit) - An API wrapper for Swift.
 
 ### Cobol
+
 - [revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
 
 ## 🤖 Bots
@@ -102,13 +96,10 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ## 🔧 Third-party Clients
 
-<!--lint ignore no-undefined-references-->
 > [!WARNING]
 > Unless stated, these are not officially endorsed. **Proceed at your own risk.**
 
-<!--lint ignore no-undefined-references-->
-> [!NOTE]
-> Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
+For a full list of clients with more information, check out the [Revolt Clients page](https://wiki.rvlt.gg/index.php/Revolt_Clients) on the Revolt Community Wiki.
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [Mobile App: Clerotri](https://github.com/upryzing/clerotri) - Revolt client for Android and web, built with React Native.
@@ -127,13 +118,6 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 
-
-<!-- END CONTENT -->
-
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-<!-- [Thanks goes to these contributors](https://github.com/insertish/awesome-revolt/graphs/contributors)! -->
