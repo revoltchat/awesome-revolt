@@ -111,7 +111,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 > Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
-- [(Endorsed) Mobile App: RVMob](https://github.com/revoltchat/rvmob) - Revolt client for Android and web, built with React Native.
+- [Mobile App: Clerotri](https://github.com/upryzing/clerotri) - Revolt client for Android and web, built with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 - [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 - [RevoltMini](https://codeberg.org/amycatgirl/revoltmini) - Revolt client for relatively small, low-end smartphones.
@@ -120,9 +120,9 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
-- [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+- [Mobile App: Rebar](https://github.com/Z1R343L/rebar) - App for Android and iOS written with Flutter.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
-- [defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
+- [defectio](https://github.com/LimeProgramming/defectio) - Asyncronous and typed Python library for Revolt.
 - [Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
 - [Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
